@@ -1,5 +1,5 @@
 # **About the HCL Now Website**
-[Release to cloud](#release-to-cloud)
+- [Release to cloud](#release-to-cloud)
 ## **Cloud Native-As-a-Service**
 
 To unlock the full potential of your HCL software products, the HCL Now cloud native-as-a-service allows you to easily move your HCL Software products to the cloud.  HCL Now offers expert assistance from technical experts who created the solutions, including 24/7 support*. 
